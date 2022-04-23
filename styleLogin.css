@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: aquamarine;
+}
+.LoginSes {
+    width: 400px;
+    background: #4b0c70;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+}
+
+.LoginSes h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.Login-Ses {
+    width: 100%;
+    background: #c7b8cf;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 2px solid #060108;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.LoginSes .Login-But {
+    width: 100%;
+    background: #c7b8cf;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.LoginSes p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+
+.LoginSes a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.LoginSes a{
+    color: white;
+    text-decoration: none;
+}
+
+    
+    
+
